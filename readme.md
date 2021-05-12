@@ -15,22 +15,22 @@ Example of a SPAM Liker:
 
 ![example](https://i.imgur.com/tnQ5Rhr.png)
 
-The data on Like Spammers is publicly available:
-https://github.com/chikorita157/WordpressLovesSpam/blob/main/wordpress-spamlikes-data.csv
+The data on Like Spammers is publicly available [here](https://github.com/chikorita157/WordpressLovesSpam/blob/main/wordpress-spamlikes-data.csv)
 
-# Of course, WordPress Isn't Doing a Single Thing About It. 
+# Of course, WordPress Isn't Doing a Single Thing About It, Even If Spam Likes are Against Acceptable Use Policy.
 Wordpress.com and Automattic has refused to do a single thing about the SPAM like issue. There are several threads regarding this issue:
 
-* https://wordpress.com/forums/topic/is-there-a-way-to-block-spam-likes/
-* https://wordpress.com/forums/topic/spam-likes-5/
-* https://wordpress.com/forums/topic/like-spam-from-russian-spammers/?replies=19
-* https://wordpress.com/forums/topic/spam-likes-on-comments/
-* https://wordpress.com/forums/topic/xyz-like-spam-is-back/
-* https://planetbotch.blogspot.com/2012/11/wordpress-likes-spammers.html
+* [https://wordpress.com/forums/topic/is-there-a-way-to-block-spam-likes/](https://wordpress.com/forums/topic/is-there-a-way-to-block-spam-likes/)
+* [https://wordpress.com/forums/topic/spam-likes-5/](https://wordpress.com/forums/topic/spam-likes-5/)
+* [https://wordpress.com/forums/topic/like-spam-from-russian-spammers/?replies=19](https://wordpress.com/forums/topic/like-spam-from-russian-spammers/?replies=19)
+* [https://wordpress.com/forums/topic/spam-likes-on-comments/](https://wordpress.com/forums/topic/spam-likes-on-comments/)
+* [https://wordpress.com/forums/topic/xyz-like-spam-is-back/](https://wordpress.com/forums/topic/xyz-like-spam-is-back/)
+* [https://planetbotch.blogspot.com/2012/11/wordpress-likes-spammers.html](https://planetbotch.blogspot.com/2012/11/wordpress-likes-spammers.html)
 
 I have contacted support about this issue and possibly have these SPAM likes removed, and they outright refused to do a single thing:
 
 > (Redacted) (Automattic)
+> 
 > May 11, 2021, 14:03 UTC
 > 
 > Hi there,
@@ -50,7 +50,15 @@ I have contacted support about this issue and possibly have these SPAM likes rem
 > I hope that helps clarify things for you. Let us know if there's anything else we can do to help.
 > 
 > (Redacted) 
+> 
 > Happiness Engineer | Automattic
+
+Of course, there terms of service says this:
+>**Spam or machine-generated content.**
+>
+>You know what this is, but in general, sites such as those primarily dedicated to drive traffic to third party sites, boost SEO, phish, spoof, or promote affiliate marketing aren’t cool. We don’t want you to pollute the web outside of WordPress.com either, so we ask you to please avoid sending unwanted or unsolicited promotions or emails about your site, even if it’s not on WordPress.com.
+
+Yes, they are being hypocritcal since Spamming Likes on random posts would be against of Acceptable Use Policy, but they won't do a thing about it.
 
 # Why Create this Repo?
 I am frustrated beyond belief as there are users who demand to have the WordPress Likes enabled while there are Like Spammers, which continue to abuse the system. Why should I promote their SPAM and ill-relevant site on my content? Not only that, this makes the Like system pointless as it makes the metric useless due to fake and SPAM likes. 
