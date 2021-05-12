@@ -57,7 +57,7 @@ I am frustrated beyond belief as there are users who demand to have the WordPres
 
 Of course, it doesn't have to be this way. We are only asking Automattic to come up with a solution to resolve the issue of SPAM likes issue on WordPress. We only ask Automattic to change the Like system so Spammers can't abuse it for their own again. After all, SPAM of all types is against the TOS, so why they don't enforce it with the Likes system.
 
-They can resolve this by implementing the following the following:
+They can resolve this by implementing the following:
 * Allow Blog Owners to remove and/or report likes that the owner considers SPAM or unwanted likes from their posts, which you can do with comments.
 * Strengthen the SPAM protection on the Like system so the spammer can’t abuse it.
 * Remove links on the User's name, so it only shows the user's image and name to reduce the likelihood of the Like system from spammers abusing it.
