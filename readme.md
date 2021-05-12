@@ -17,9 +17,12 @@ https://github.com/chikorita157/WordpressLovesSpam/blob/main/wordpress-spamlikes
 # Of course, Wordpress Isn't Doing a Single Thing Abouit It. 
 Wordpress.com and Automattic has refused to do a single thing about the SPAM like issue. There are several threads regarding this issue:
 
-* https://wordpress.com/read/feeds/50814868
+* https://wordpress.com/forums/topic/is-there-a-way-to-block-spam-likes/
 * https://wordpress.com/forums/topic/spam-likes-5/
 * https://wordpress.com/forums/topic/like-spam-from-russian-spammers/?replies=19
+* https://wordpress.com/forums/topic/spam-likes-on-comments/
+* https://wordpress.com/forums/topic/xyz-like-spam-is-back/
+* https://planetbotch.blogspot.com/2012/11/wordpress-likes-spammers.html
 
 I have contacted support about this issue and possibly have these SPAM likes removed, and they outright refused to do a single thing:
 
