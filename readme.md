@@ -53,7 +53,7 @@ I have contacted support about this issue and possibly have these SPAM likes rem
 > 
 > Happiness Engineer | Automattic
 
-Of course, there terms of service says this:
+Of course, their [terms of service](https://wordpress.com/support/user-guidelines/) says this:
 >**Spam or machine-generated content.**
 >
 >You know what this is, but in general, sites such as those primarily dedicated to drive traffic to third party sites, boost SEO, phish, spoof, or promote affiliate marketing aren’t cool. We don’t want you to pollute the web outside of WordPress.com either, so we ask you to please avoid sending unwanted or unsolicited promotions or emails about your site, even if it’s not on WordPress.com.
