@@ -12,6 +12,7 @@ This of course causes a problem of SPAM likes as spammers takes advantage of thi
 SPAM Likes are defined as people who places likes on random posts that does not follow your blog. They also have a blog that is completely unrelated to yours and most of the time have low quality or content that is considered SPAM.
 
 Example of a SPAM Liker:
+
 ![example](https://i.imgur.com/tnQ5Rhr.png)
 
 The data on Like Spammers is publicly available:
@@ -29,7 +30,7 @@ Wordpress.com and Automattic has refused to do a single thing about the SPAM lik
 
 I have contacted support about this issue and possibly have these SPAM likes removed, and they outright refused to do a single thing:
 
-> <Redacted> (Automattic)
+> (Redacted) (Automattic)
 > May 11, 2021, 14:03 UTC
 > 
 > Hi there,
@@ -48,7 +49,7 @@ I have contacted support about this issue and possibly have these SPAM likes rem
 > 
 > I hope that helps clarify things for you. Let us know if there's anything else we can do to help.
 > 
-> <Redacted> 
+> (Redacted) 
 > Happiness Engineer | Automattic
 
 # Why Create this Repo?
