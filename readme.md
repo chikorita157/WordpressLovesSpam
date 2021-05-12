@@ -54,7 +54,8 @@ This can be done through the following:
 * Allow Blog Users to remove and/or report likes that are considered SPAM or unwanted like you can do with comments.
 * Strengthen the SPAM protection on the Like system so it can't easily be abused
 * Remove links on the User's name, so it only show the user's image and name to reduce the Likelihood of the Like system from being abused for SPAM.
-* Hide the Like button for creators who decide to completely disable the Like system completely.
+* Hide the Like button on creator's who decide to completely disable the Like system completely on Wordpress.com Reader.
+* Allow creators to block users from following and liking posts on Wordpress.com Reader like with any other social network.
 
 # Experiencing the Same Issue?
 First off, consider disabling the Wordpress Like system to prevent your site from being penalized for linking to SPAM. Also, report this issue by contacting [Wordpress.com Support](https://wordpress.com/help/contact). Mention the names of the like spammers, their blog links on Wordpress.com Reader, and the posts affected. In addition, provide the link to the feed of your blog on Wordpress.com reader and a link to this repo. 
