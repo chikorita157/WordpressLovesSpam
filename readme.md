@@ -9,7 +9,7 @@ While WordPress provides Anti-Spam protection for comments, they do not with Wor
 
 This of course causes a problem of SPAM likes as spammers takes advantage of this to advertise their content, not because they genuinely like the content. This of course can affect search engine rankings as linking to low quality sites can cause the rankings to your website to drop due to a penalty. Of course, links to these SPAM blogs also appear on your posts on WordPress.com Reader, which hurts your blog's reputation since you are unintentionally linking back to the Spammer's blog.
 
-SPAM Likes are defined as people who places likes on random posts that does not follow your blog. They also have a blog that is completely unrelated to yours and most of the time have low quality or content that is considered SPAM.
+SPAM Likes are defined as people who places likes on random posts that does not follow your blog. They also have a blog that is completely unrelated to yours and most of the time have low quality content or content that is considered SPAM.
 
 Example of a SPAM Liker:
 
