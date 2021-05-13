@@ -1,7 +1,7 @@
 ### Automattic/Wordpress.com regarding the Like Spam Issue:
 🙈🙉🙊
 
-# Obviously, Wordpress.com and Automatic Does Not Care about SPAM. The Like Spam Issue
+# Obviously, Wordpress.com and Automattic Does Not Care about SPAM. The Like Spam Issue
 
 SPAM hurts content creators since it can negatively impact search engine rankings. This because spammers use things like comments and likes to attempt to advertise their website. They are usually linking to blogs or websites that have low quality content and/or unrelated to the content covered on your site.
 
