@@ -1,4 +1,4 @@
-#The Wordpress.com Like Soam Issue Automattic/Wordpress.com Refuses to Acknowledge
+# The Wordpress.com Like Soam Issue Automattic/Wordpress.com Refuses to Acknowledge
 ### Automattic/Wordpress.com regarding the Like Spam Issue:
 🙈🙉🙊
 
