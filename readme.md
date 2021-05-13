@@ -60,7 +60,7 @@ Of course, their [terms of service](https://wordpress.com/support/user-guideline
 
 Yes, they are being hypocritcal since Spamming Likes on random posts would be against of Acceptable Use Policy, but they won't do a thing about it.
 
-# Why Create this Repo?
+# Why Create this Website?
 I am frustrated beyond belief as there are users who demand to have the WordPress Likes enabled while there are Like Spammers, which continue to abuse the system. Why should I promote their SPAM and ill-relevant site on my content? Not only that, this makes the Like system pointless as it makes the metric useless due to fake and SPAM likes. 
 
 Of course, it doesn't have to be this way. We are only asking Automattic to come up with a solution to resolve the issue of SPAM likes issue on WordPress. We only ask Automattic to change the Like system so Spammers can't abuse it for their own again. After all, SPAM of all types is against the TOS, so why they don't enforce it with the Likes system.
