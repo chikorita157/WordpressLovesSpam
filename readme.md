@@ -18,6 +18,8 @@ Example of a SPAM Liker:
 
 The data on Like Spammers is publicly available [here](https://github.com/chikorita157/WordpressLovesSpam/blob/main/wordpress-spamlikes-data.csv)
 
+If your name appears on this list, it is not removable. If you don't want your name put on this list, do not spam like.
+
 # Of course, WordPress Isn't Doing a Single Thing About It, Even If Spam Likes are Against Acceptable Use Policy.
 Wordpress.com and Automattic has refused to do a single thing about the SPAM like issue. There are several threads regarding this issue:
 
